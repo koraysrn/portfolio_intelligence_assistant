@@ -122,8 +122,7 @@ portfolio-intelligence-assistant/
 │   │   └── services/       # API service (PortfolioApiService)
 │   ├── package.json
 │   └── tailwind.config.ts
-├── plans/                  # Documentation & reports (Turkish)
-└── README.md
+
 ```
 
 ---
