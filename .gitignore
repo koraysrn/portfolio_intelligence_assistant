@@ -1,0 +1,17 @@
+# Python (Backend için)
+__pycache__/
+*.py[cod]
+.venv/
+.env
+
+# Node.js (Frontend için)
+node_modules/
+.next/
+dist/
+build/
+*.log
+.DS_Store
+
+# Diğerleri
+.vscode/
+.idea/
