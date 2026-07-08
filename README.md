@@ -176,19 +176,6 @@ portfolio-intelligence-assistant/
 
 ---
 
-##  Testing
-
-```bash
-cd backend
-python test_pipeline.py
-```
-
-Runs a 3-stage E2E test:
-1. **RAG & ChromaDB** — Embed + semantic search
-2. **Twelve Data MCP** — Live price fetch + risk analysis
-3. **Ollama LLM** — Local model connection test
-
----
 
 ##  Security Features
 
